@@ -46,10 +46,9 @@ Hi there! I'm a certified DevOps Engineer and Cloud Solutions Architect with a s
 ## 📫 Let's Connect
 
 - 📧 Email: MohamedAmineHlali@gmail.com  
-- 🌍 Location: Tunisia
-- 
-## 📫 How to reach me
+- 🌍 Location: Tunisia 
 - 💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/mohamed-amine-hlali/)
+  
 ---
 
 > “DevOps is not a role, it's a mindset.”  
