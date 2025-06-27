@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👨‍💻 Hlali Mohamed Amine | DevOps & Cloud Solutions Architect
 
-<!--
-**HlaliMedAmine/HlaliMedAmine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm a certified DevOps Engineer and Cloud Solutions Architect with a strong focus on automation, scalability, and infrastructure reliability. I specialize in designing and implementing cloud-native solutions using Azure and modern DevOps toolchains.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Certifications
+
+- 🟢 Microsoft Certified: **Azure Solutions Architect Expert**
+- 🟢 Microsoft Certified: **DevOps Engineer Expert**
+- 🟢 Microsoft Certified: Azure Administrator Associate (**AZ-104**)
+- 🟢 Microsoft Certified: Azure Solutions Architect (**AZ-305**)
+- 🟢 Microsoft Certified: Azure Fundamentals (**AZ-900**)
+- 🟢 Microsoft Certified: DevOps Engineer (**AZ-400**)
+- 🟢 GitHub Foundations
+
+---
+
+## 🚀 Core Skills
+
+- 🌐 Cloud: Azure (daily), AWS (basic)
+- ⚙️ CI/CD: GitHub Actions, Azure DevOps, GitLab CI
+- 🧱 IaC: Terraform, ARM Templates
+- 🐳 Containers: Docker, Docker Compose
+- ☸️ Orchestration: Kubernetes (k8s), Helm
+- 🖥️ Monitoring: Prometheus, Grafana, Azure Monitor
+- 🔐 Secrets Management: Azure Key Vault, HashiCorp Vault
+- 🐧 Linux System Administration & Bash Scripting
+- 🔁 Version Control: Git, GitHub, GitLab
+
+---
+
+## 🧰 Tools I Use Daily
+
+| Purpose               | Tools/Technologies                       |
+|-----------------------|------------------------------------------|
+| Cloud Infrastructure  | Azure, Terraform, ARM                    |
+| CI/CD Pipelines       | GitHub Actions, Azure DevOps, GitLab CI |
+| Containerization      | Docker, Kubernetes, Helm                 |
+| Monitoring & Logging  | Prometheus, Grafana, Azure Monitor       |
+| Secrets Management    | Azure Key Vault, HashiCorp Vault         |
+| Scripting & Automation| Bash, PowerShell                         |
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: MohamedAmineHlali@gmail.com  
+- 💼 LinkedIn: [https://www.linkedin.com/in/mohamed-amine-hlali/]  
+- 🌍 Location: Tunisia  
+
+---
+
+> “DevOps is not a role, it's a mindset.”  
